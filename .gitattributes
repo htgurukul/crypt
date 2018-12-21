@@ -1,0 +1,4 @@
+t1.property filter=git-crypt diff=git-crypt
+gradle.properties filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
+readme.md !filter !diff
